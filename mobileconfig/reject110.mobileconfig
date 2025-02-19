@@ -14,7 +14,7 @@
             <key>PayloadUUID</key>
             <string>e47ac10b-58cc-4372-a567-0e02b2c3d479</string>
             <key>PayloadDisplayName</key>
-            <string>全局代理屏蔽 IP</string>
+            <string>屏蔽反诈中心访问</string>
             <key>PayloadDescription</key>
             <string>通过 PAC 文件屏蔽特定 IP 地址</string>
 
